@@ -1,0 +1,7 @@
+D:\vssource\cs\Dbs\Dbs\Dbs\bin\Dbs.dll
+D:\vssource\cs\Dbs\Dbs\Dbs\bin\Dbs.pdb
+D:\vssource\cs\Dbs\Dbs\Dbs\obj\Debug\ResolveAssemblyReference.cache
+D:\vssource\cs\Dbs\Dbs\Dbs\obj\Debug\Dbs.dll
+D:\vssource\cs\Dbs\Dbs\Dbs\obj\Debug\Dbs.pdb
+D:\vssource\cs\Dbs\Dbs\Dbs\obj\Debug\RdlCompile.cache
+D:\vssource\cs\Dbs\Dbs\Dbs\obj\Debug\RdlCompile.compiled
